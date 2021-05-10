@@ -1,1 +1,1 @@
-# Knowledge-aided-Dual-channel-CNN-KDCNN-
+# Knowledge-aided-Dual-channel-CNN-KDCNN
